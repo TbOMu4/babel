@@ -1,5 +1,4 @@
 "use strict";
-import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   const input = document.querySelector(".input");
